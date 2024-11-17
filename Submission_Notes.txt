@@ -6,5 +6,7 @@ Since am facing some issues with Google cloud and deployment issue i couldn't co
 
 But I have tried in local setup and attached screenshots as well. 
 
+Note : First_trial folder is the one which i have tried for my knowledge purpose
+
 Thanks,
 Santhosh T 
