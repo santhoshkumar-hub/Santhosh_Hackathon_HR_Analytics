@@ -1,0 +1,10 @@
+Hi Sir, 
+
+I have completed with Employee Performance Dataset until User Interface UI Development step and I have attached all the sheets and code blocks in this file. 
+
+Since am facing some issues with Google cloud and deployment issue i couldn't complete still at the end. 
+
+But I have tried in local setup and attached screenshots as well. 
+
+Thanks,
+Santhosh T 
